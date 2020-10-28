@@ -5,7 +5,7 @@ _This Application analyzes the hashtags on an Instagram post using **Web-Scrapin
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies
+Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install dependencies
 ```
 pip3 install selenium
 pip3 install webdriver_manager
